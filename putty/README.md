@@ -11,6 +11,8 @@ PuTTY Tray
 
 [PuTTY Tray](https://puttytray.goeswhere.com/) can store sessions in text files as opposed to the Windows registry. To modify an existing session to use Solarized colors, open the file in a text editor and replace the lines beginning with `Colour##` (0-21) with the version from `solarized_dark_puttytray.txt`.
 
+If there is no sessions folder inside the same folder where the puttytray.exe resides, create a file called `putty.conf` with the following content `sessions=PATH\TO\PUTTYFOLDER\sessions`, inside the very same folder where puttytray.exe is located
+
 #### Attributions
 
 |Attribute|Meaning|
