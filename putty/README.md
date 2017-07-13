@@ -34,7 +34,7 @@ If there is no sessions folder inside the same folder where the puttytray.exe re
 |Colour14|Blue Bold/Background|
 |Colour15|Blue|
 |Colour16|Magenta Bold/Background|
-|Colour17|Magento|
+|Colour17|Magenta|
 |Colour18|Cyan Bold/Background|
 |Colour19|Cyan|
 |Colour20|White Bold/Background|
